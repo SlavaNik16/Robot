@@ -1,0 +1,14 @@
+X:\На всякий случай\C#\Robotgo\Robotgo\bin\Debug\netcoreapp3.1\Robotgo.exe
+X:\На всякий случай\C#\Robotgo\Robotgo\bin\Debug\netcoreapp3.1\Robotgo.deps.json
+X:\На всякий случай\C#\Robotgo\Robotgo\bin\Debug\netcoreapp3.1\Robotgo.runtimeconfig.json
+X:\На всякий случай\C#\Robotgo\Robotgo\bin\Debug\netcoreapp3.1\Robotgo.runtimeconfig.dev.json
+X:\На всякий случай\C#\Robotgo\Robotgo\bin\Debug\netcoreapp3.1\Robotgo.dll
+X:\На всякий случай\C#\Robotgo\Robotgo\bin\Debug\netcoreapp3.1\Robotgo.pdb
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.csproj.AssemblyReference.cache
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.GeneratedMSBuildEditorConfig.editorconfig
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.AssemblyInfoInputs.cache
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.AssemblyInfo.cs
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.csproj.CoreCompileInputs.cache
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.dll
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.pdb
+X:\На всякий случай\C#\Robotgo\Robotgo\obj\Debug\netcoreapp3.1\Robotgo.genruntimeconfig.cache
